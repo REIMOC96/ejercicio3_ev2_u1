@@ -1,0 +1,8 @@
+.link{
+    initial-value: none;
+    text-decoration: none;
+    color: green;
+}
+.link:hover{
+    color: red;
+}
